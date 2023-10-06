@@ -3,6 +3,5 @@ Clone, Pull, Push, Merge, Rebase, CherryPick,  Stash, Log  UIPath project into g
 Managing different branches
 Resolve merge conflicts locally and in github - github
 
-
-
 changed in the new branch subMain
+
